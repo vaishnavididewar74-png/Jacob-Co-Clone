@@ -42,7 +42,7 @@ body{
 	background-image:url('Image/1.png');
 	height:12.9cm;
 	width:30cm;
-	top:-0.2%;
+	top:0.2%;
 	left:0%;
 	right:0%;
 	Background-repeat:no-repeat;
@@ -141,11 +141,11 @@ body{
 	background-color:#0D0907;
 	height:13.2cm;
 	width:33cm;
-	top:-0.5%;
+	top:0%;
 	left:0%;
 	right:0%;
 	z-index:3;
-	margin-left:-0.5cm;
+	margin-left:0cm;
 	text-align:center;
 	color:white;
 	opacity:80%;
@@ -156,13 +156,15 @@ body{
 	font-size:27px;
 	position:relative;
 	top:3cm;
-	left:-1.5cm;
+	left:0cm;
+	margin-right:4cm;
 }
 .p2{
 	font-size:27px;
 	position:relative;
 	top:3cm;
-	left:-1.5cm;
+	left:0cm;
+	margin-right:4cm;
 }
 .THIRD{
 	position:sticky;
@@ -171,9 +173,9 @@ body{
 	right:0%;
 	bottom:0%;
 	max-width:(40cm,100%);
-	margin-left:-0.2cm;
-	margin-right:-0.2cm;
-	margin-bottom:-0.2cm;
+	margin-left:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
 	height:100%;				
 	margin-top:27.6cm;
 	z-index:4;
